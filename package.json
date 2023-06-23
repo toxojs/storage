@@ -1,6 +1,6 @@
 {
   "name": "@toxo/storage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "./src/index.js",
   "scripts": {
@@ -35,6 +35,6 @@
     "prettier": "^2.8.8"
   },
   "dependencies": {
-    "@toxo/database": "^1.0.2"
+    "@toxo/database": "^1.2.1"
   }
 }
